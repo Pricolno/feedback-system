@@ -29,32 +29,46 @@ docker-compose up --build
 ### Bot interface
 
 Main menu
+
 ![](./img/1_hello.png)
 
+
 Search for a course by title
+
 ![](./img/2_choose_course.png)
 
+
 Action with the course
+
 ![](./img/3_work_with.png)
 
 Student feedback
+
 ![](./img/4_feedback.png)
 
+
 Course feedback
+
 ![](./img/5_text_feedback.png)
 
 Course Metrics
+
 ![](./img/6_metrics_by_course.png)
 
+
 Tag Search
+
 ![](./img/7_searchin_tags.png)
 
+
 View tags
+
 ![](./img/8_watching_tags.png)
 
-Getting relevant courses
-![](./img/9_getting_relevant_courses.png)
 
+Getting relevant courses
+
+![](./img/9_getting_relevant_courses.png)
 
 
 ### How do we get the tags?
